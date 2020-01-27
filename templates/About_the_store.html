@@ -1,0 +1,35 @@
+{% extends 'The_main_page.html' %}
+{% load static %}
+{% block content %}
+    <div class="store">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6"><h3>1. Продукция мировых брендов</h3>
+                    <p>В нашем магазине представлены отечественные и зарубежные производители. На сайте вы найдете
+                        продукцию
+                        таких известных марок, как: ArtCeram, Arbi, Globo, Simas. Bandini, Berloni, Bette, Blanco,
+                        Burgbad,
+                        Catalano, Cisal, Cezares, Devon & Devon, Dornbracht, Duravit, ТЕСЕ, Gessi, Huppe, Hoesch,
+                        Jacuzzi,
+                        Villeroy&boch.</p>
+                    <h3>2. Лучшие цены</h3>
+                    <p>Предлагаем товар по самым привлекательным ценам. Мы ценим наших клиентов и любим их радовать
+                        скидками, акциями и специальными предложениями! </p>
+                    <h3> 3. Опыт</h3>
+                    <p>Мы всегда поделимся нашим опытом и поможем с выбором качественной сантехнике.</p>
+                </div>
+                <div class="col-lg-6">
+                    <div class="row">
+                        <div class="col-lg-6"><img src="{% static 'image/help_1.jpg' %}" alt="help"></div>
+                        <div class="col-lg-6"><img src="{% static 'image/s1200.webp' %}" alt="help"></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-6"><img src="{% static 'image/help_1.jpg' %}" alt="help"></div>
+                        <div class="col-lg-6"><img src="{% static 'image/help_1.jpg' %}" alt="help"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+{% endblock %}

@@ -1,0 +1,17 @@
+{% extends 'The_main_page.html' %}
+{% load static %}
+{% block content %}
+
+    <div class="about_mixer ">
+        <div class="container">
+            <div class="row text-center">
+                <div class="mixer_one_2 col-lg-12">
+                    <img src="{{ mix_get.img.url }}" class="mr-3" alt=""><br>
+                    <h3>{{ mix_get.name }}</h3>
+                    <h3>{{ mix_get.price }}</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+
+{% endblock %}

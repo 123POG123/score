@@ -1,0 +1,60 @@
+<section class="navigation">
+    <div class="container">
+        <div class="row">
+            <div class="navbar col-lg-12 justify-content-center">
+                <nav class="dws_menu">
+                    <ul class="df_lex ">
+                        <li class=""><a href="{% url 'first' %}"><i class="fas fa-home"></i>Главная</a></li>
+                        <li class="catalog"><a href="#"><i class="fas ss fa-book-reader "></i>Каталог</a>
+                            <ul class="dws_menu_catalog">
+                                <li class="menu_a"><a href="#">смесители</a>
+                                    <ul class="dws_menu_catalog chil_d">
+
+                                        <a href="{% url 'mixer' %}">Для ванны</a>
+                                        <a href="{% url 'shower' %}">Для душа</a>
+                                        <a href="{% url 'bidet' %}">Для биде</a>
+                                        <a href="{% url 'sink' %}">Для раковины</a>
+
+                                    </ul>
+                                </li>
+                                <li class="menu_a"><a href="#">ванны</a>
+                                    <ul class="dws_menu_catalog_mixer chil_d">
+
+                                        <a href="{% url 'mixer' %}">Чугунные</a>
+                                        <a href="{% url 'shower' %}">Металические</a>
+                                        <a href="{% url 'bidet' %}">Акриловые</a>
+
+                                    </ul>
+                                </li>
+                                <li class="menu_a"><a href="#">унитазы</a>
+                                    <ul class="dws_menu_catalog chil_d">
+
+                                        <a href="{% url 'mixer' %}">Подвесные</a>
+
+                                    </ul>
+                                </li>
+                                <li class="menu_a"><a href="#">биде</a></li>
+                                <li class="menu_a"><a href="#">кухонные мойки</a></li>
+                                <li class="menu_a"><a href="#">аксесуары для ванной</a></li>
+                                <li class="menu_a"><a href="#">писуары</a></li>
+                                <li class="menu_a"><a href="#">системы инсталяции</a></li>
+                                <li class="menu_a"><a href="#">полотенцесушители</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="{% url 'delivery' %}"><i class="fas fa-truck"></i>Доставка</a></li>
+                        <li><a href="{% url 'buy' %}"><i class="fas fa-credit-card"></i>Оплата</a></li>
+                        <li><a href="{% url 'plumbing_installation' %}"><i class="fas fa-wrench"></i>установка</a></li>
+                        <li><a href="#"><i class="fas fa-user-shield"></i>Гарантия</a></li>
+                        <li><a href="{% url 'aboutTheStore' %}"><i class="far fa-newspaper"></i>Новости</a>
+                            <ul class="dws_menu_catalog chil_d">
+                                <li class="menu_a"><a href="{% url 'aboutTheStore' %}">Новости магазина</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="{% url 'contact' %}"><i class="fas fa-envelope-open"></i>Контакты</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+</section>
+
