@@ -25,7 +25,7 @@ from fase.views import *
 urlpatterns = [
 
     path('admin/', admin.site.urls, name='admin'),
-    path('s/', template, name='start'),
+    path('', template, name='start'),
     path('main/', firstPage, name='first'),
     path('delivery/', delivery, name='delivery'),
     path('buy/', buy, name='buy'),
