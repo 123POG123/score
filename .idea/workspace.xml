@@ -1,42 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:Pavel" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e01ff7f3-b4ff-45e9-b316-e2b3d6ed1bcf" name="Default Changelist" comment="a">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/07339c1c-47c6-4331-8e94-98d816725539.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/07339c1c-47c6-4331-8e94-98d816725539/storage_v2/_src_/database/djangodb.Gb0OJw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/07339c1c-47c6-4331-8e94-98d816725539/storage_v2/_src_/database/djangodb.Gb0OJw/schema/public.abK9xQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/santex.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/About_the_store.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/The_main_page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/buy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/contact_forms.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/delivery.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/e/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/e/item.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/firstPage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/mixer/about_mixer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/mixer/bathtubs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/mixer/bidet.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/mixer/shower.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/mixer/sink.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/navbar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/plumbing_installation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/07339c1c-47c6-4331-8e94-98d816725539/storage_v2/_src_/database/djangodb.Gb0OJw/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/07339c1c-47c6-4331-8e94-98d816725539/storage_v2/_src_/database/djangodb.Gb0OJw/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sshConfigs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Django-2.2.6.dist-info/INSTALLER" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Django-2.2.6.dist-info/LICENSE" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Django-2.2.6.dist-info/METADATA" afterDir="false" />
@@ -4027,190 +4015,23 @@
       <change afterPath="$PROJECT_DIR$/venv/Scripts/pythonw.exe" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/Scripts/sqlformat.exe" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fase/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/fase/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fase/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/fase/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/santex/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/santex/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/mixer/bathtubs.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/mixer/bathtubs.html" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="PostgreSQL - djangodb@localhost" type="feb32156:DbDataSourceImpl" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="PostgreSQL - djangodb@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="PostgreSQL - djangodb@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="djangodb: database" type="162271b6:PgImplModel$Database" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="PostgreSQL - djangodb@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="djangodb: database" type="162271b6:PgImplModel$Database" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="PostgreSQL - djangodb@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="djangodb: database" type="162271b6:PgImplModel$Database" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="PostgreSQL - djangodb@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="djangodb: database" type="162271b6:PgImplModel$Database" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
-        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
-  </component>
-  <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5188679">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/fase/static/media/static/style1.less">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="391">
-                  <caret line="23" column="12" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="12" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/templates/About_the_store.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="85">
-                  <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/templates/The_main_page.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="561">
-                  <caret line="33" column="43" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="43" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/fase/static/media/static/style1.css">
-              <provider selected="true" editor-type-id="text-editor" />
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/fase/views.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1836">
-                  <caret line="108" column="5" selection-start-line="108" selection-start-column="5" selection-end-line="108" selection-end-column="11" />
-                  <folding>
-                    <element signature="e#0#38#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/santex/urls.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="612">
-                  <caret line="36" selection-start-line="36" selection-end-line="36" />
-                  <folding>
-                    <element signature="e#630#662#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/fase/urls.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="238">
-                  <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
-                  <folding>
-                    <element signature="e#1#38#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/fase/models.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="510">
-                  <caret line="30" column="58" selection-start-line="30" selection-start-column="58" selection-end-line="30" selection-end-column="58" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://C:/Soft/Python/Lib/site-packages/django/db/models/deletion.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="153">
-                  <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/santex/wsgi.py">
-              <provider selected="true" editor-type-id="text-editor" />
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/fase/static/media/static/style1.less">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="476">
-                  <caret line="28" column="11" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="11" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/santex/settings.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="306">
-                  <caret line="49" column="14" selection-start-line="34" selection-start-column="1" selection-end-line="39" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -4222,95 +4043,10 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>dws_menu_catalog_last</find>
-      <find>dws_menu_catalog_bathtubs</find>
-      <find>fot_o</find>
-      <find>h4</find>
-      <find>6</find>
-      <find>search</find>
-      <find>ca</find>
-      <find>hover</find>
-      <find>catalog</find>
-      <find>header_clock</find>
-      <find>btn_input</find>
-      <find>description</find>
-      <find>phone</find>
-      <find>вуы</find>
-      <find>desc</find>
-      <find>navi</find>
-      <find>moda</find>
-      <find>objects.all().filter(test_start_mark='started').order_by('-pk'))</find>
-      <find>mixer_one</find>
-      <find>navbar.html' %}</find>
-      <find>font_s</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>dws_menu_catalog_bathtubs</replace>
-      <replace>dws_menu_catalog</replace>
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/static/style1.less" />
-        <option value="$PROJECT_DIR$/fase/apps.py" />
-        <option value="$PROJECT_DIR$/fase/static/image/fase/settings.py" />
-        <option value="$PROJECT_DIR$/static/js/java.js" />
-        <option value="$PROJECT_DIR$/fase/static/js/java.js" />
-        <option value="$PROJECT_DIR$/fase/static/js/java1.js" />
-        <option value="$PROJECT_DIR$/fase/static/js/javas.js" />
-        <option value="$PROJECT_DIR$/fase/migrations/0002_auto_20191101_1335.py" />
-        <option value="$PROJECT_DIR$/example/admin.py" />
-        <option value="$PROJECT_DIR$/example/models.py" />
-        <option value="$PROJECT_DIR$/templates/e/template.html" />
-        <option value="$PROJECT_DIR$/example/views.py" />
-        <option value="$PROJECT_DIR$/templates/e/item.html" />
-        <option value="$PROJECT_DIR$/templates/index.html" />
-        <option value="$PROJECT_DIR$/subscrabe/templates/success.html" />
-        <option value="$PROJECT_DIR$/subscrabe/forms.py" />
-        <option value="$PROJECT_DIR$/templates/e/type_index.html" />
-        <option value="$PROJECT_DIR$/templates/e/type.html" />
-        <option value="$PROJECT_DIR$/subscrabe/templates/index.html" />
-        <option value="$PROJECT_DIR$/subscrabe/urls.py" />
-        <option value="$PROJECT_DIR$/subscrabe/templates/type.html" />
-        <option value="$PROJECT_DIR$/subscrabe/views.py" />
-        <option value="$PROJECT_DIR$/templates/e/index.html" />
-        <option value="$PROJECT_DIR$/fase/wq.py" />
-        <option value="$PROJECT_DIR$/fase/admin.py" />
-        <option value="$PROJECT_DIR$/templates/plumbing_installation.html" />
-        <option value="$PROJECT_DIR$/templates/delivery.html" />
-        <option value="$PROJECT_DIR$/templates/contact.html" />
-        <option value="$PROJECT_DIR$/templates/buy.html" />
-        <option value="$PROJECT_DIR$/templates/mixer.html" />
-        <option value="$PROJECT_DIR$/fase/models.py" />
-        <option value="$PROJECT_DIR$/templates/mixer/shower.html" />
-        <option value="$PROJECT_DIR$/templates/mixer/bidet.html" />
-        <option value="$PROJECT_DIR$/templates/mixer/bathtubs.html" />
-        <option value="$PROJECT_DIR$/templates/mixer/sink.html" />
-        <option value="$PROJECT_DIR$/fase/urls.py" />
-        <option value="$PROJECT_DIR$/fase/static/style1.less" />
-        <option value="$PROJECT_DIR$/fase/static/style.less" />
-        <option value="&lt;68154d91-50d3-4782-bdd6-1f4d843b23f9&gt;/home/c15214/santexklin12.ru/app/templates/index.html" />
-        <option value="$PROJECT_DIR$/templates/firstPage.html" />
-        <option value="$PROJECT_DIR$/templates/navbar.html" />
-        <option value="$PROJECT_DIR$/fase/static/media/static/style.less" />
-        <option value="$PROJECT_DIR$/fase/static/media/static/style1.less" />
-        <option value="$PROJECT_DIR$/santex/urls.py" />
-        <option value="$PROJECT_DIR$/templates/The_main_page.html" />
-        <option value="$PROJECT_DIR$/fase/forms.py" />
-        <option value="$PROJECT_DIR$/templates/contact_forms.txt" />
-        <option value="$PROJECT_DIR$/fase/views.py" />
-        <option value="$PROJECT_DIR$/templates/mixer/about_mixer.html" />
-        <option value="$PROJECT_DIR$/templates/About_the_store.html" />
-        <option value="$PROJECT_DIR$/santex/settings.py" />
-      </list>
-    </option>
-  </component>
+  <component name="JupyterTrust" id="56362446-1776-4086-8e2e-75cda0a224d5" />
   <component name="ProjectConfigurationFiles">
     <option name="files">
       <list>
@@ -4318,34 +4054,16 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="width" value="960" />
-    <option name="height" value="1040" />
-  </component>
+  <component name="ProjectId" id="1ayHlCJNBAzpJQ0dNecPG9PYG2R" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="santex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="santex" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="postgresql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
@@ -4354,7 +4072,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="database.console.LAST_STATE" value="true" />
-    <property name="last_opened_file_path" value="D:/Новая папка (3)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="css" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -4376,19 +4094,7 @@
       <recent name="C:\Users\ьтиьт\PycharmProjects\santex\subscrabe" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Django server.santex">
+  <component name="RunManager" selected="Django Server.santex">
     <configuration name="wq" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="santex" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -4436,7 +4142,7 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Django server.santex" />
+      <item itemvalue="Django Server.santex" />
       <item itemvalue="Python.wq" />
     </list>
     <recent_temporary>
@@ -4445,6 +4151,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>C:\Users\ьтиьт\AppData\Roaming\Subversion</configuration>
   </component>
@@ -4558,7 +4265,29 @@
       <workItem from="1580126834004" duration="2016000" />
       <workItem from="1580130164878" duration="15000" />
       <workItem from="1580136215271" duration="1367000" />
-      <workItem from="1580138289590" duration="1416000" />
+      <workItem from="1580138289590" duration="2920000" />
+      <workItem from="1580178095986" duration="112000" />
+      <workItem from="1580987780893" duration="95000" />
+      <workItem from="1581611760612" duration="3094000" />
+      <workItem from="1582345909237" duration="117000" />
+      <workItem from="1586760558927" duration="124000" />
+      <workItem from="1586760707567" duration="12000" />
+      <workItem from="1586761335734" duration="700000" />
+      <workItem from="1586832372734" duration="988000" />
+      <workItem from="1587701066409" duration="476000" />
+      <workItem from="1588317614972" duration="135000" />
+      <workItem from="1588318107131" duration="11000" />
+      <workItem from="1588320907550" duration="20000" />
+      <workItem from="1588321259320" duration="83000" />
+      <workItem from="1588321987668" duration="813000" />
+      <workItem from="1605239926773" duration="210000" />
+      <workItem from="1605260075773" duration="902000" />
+      <workItem from="1607242993755" duration="213000" />
+      <workItem from="1607244823814" duration="233000" />
+      <workItem from="1607568366961" duration="52000" />
+      <workItem from="1607569130559" duration="5000" />
+      <workItem from="1617887424650" duration="214000" />
+      <workItem from="1617899448073" duration="1212000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <created>1580136797696</created>
@@ -4581,361 +4310,68 @@
       <option name="project" value="LOCAL" />
       <updated>1580140695239</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="a">
+      <created>1580141246015</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1580141246015</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="415724000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992928" visible="true" weight="0.2774799" />
-      <window_info id="Structure" order="1" sideWeight="0.5007072" side_tool="true" weight="0.26675603" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.34502923" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="manage.py@santex" order="7" weight="0.32956153" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49731904" visible="true" weight="0.32894737" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.50268096" side_tool="true" visible="true" weight="0.32894737" />
-      <window_info anchor="bottom" id="Database Changes" order="11" weight="0.32956153" />
-      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32956153" />
-      <window_info anchor="bottom" id="Python Console" order="13" />
-      <window_info anchor="bottom" id="File Transfer" order="14" weight="0.32956153" />
-      <window_info anchor="bottom" id="Database Console" order="15" weight="0.32956153" />
-      <window_info anchor="bottom" id="DB Execution Console" order="16" />
-      <window_info anchor="right" id="SciView" order="0" weight="0.3297587" />
-      <window_info anchor="right" id="Database" order="1" visible="true" weight="0.02010724" />
-      <window_info anchor="right" id="Remote Host" order="2" weight="0.3297587" />
-      <window_info anchor="right" id="DB Browser" order="3" weight="0.3297587" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="a" />
     <option name="LAST_COMMIT_MESSAGE" value="a" />
   </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1617900540069">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617900540069" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1617900540069">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1617900540069" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1617900540069">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1617900540069" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1617900540069">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1617900540069" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/santex$wq.coverage" NAME="wq Coverage Results" MODIFIED="1574227521342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fase" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/fase/migrations/0001_initial.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Soft/Python/Lib/site-packages/django/urls/conf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fase/static/image/смесители/для_раковины/1.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://C:/Soft/Python/Lib/site-packages/django/conf/urls/static.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fase/static/media/static/media/frap-shop.rusmesitel-frap-h28-f1028-b1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/mixer/bidet.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/mixer/sink.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="34" selection-start-column="34" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/buy.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fase/static/image/buy.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fase/static/image/crane.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fase/static/image/image_fon.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fase/static/image/help_1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://C:/Soft/Python/Lib/site-packages/django/shortcuts.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
-          <folding>
-            <element signature="e#188#203#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Soft/Python/Lib/site-packages/django/http/response.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4998">
-          <caret line="312" column="14" selection-start-line="312" selection-start-column="14" selection-end-line="312" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-1719162074/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3383">
-          <caret line="199" column="4" selection-start-line="199" selection-start-column="4" selection-end-line="199" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/mixer/bathtubs.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="72" selection-start-line="9" selection-start-column="72" selection-end-line="9" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/santex/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/firstPage.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/contact_forms.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fase/static/media/static/djangodb_public_auth_group.sql" />
-    <entry file="file://$PROJECT_DIR$/fase/static/djangodb_public_auth_group.sql" />
-    <entry file="file://$PROJECT_DIR$/fase/static/djangodb_public_auth_group.tsv" />
-    <entry file="file://$PROJECT_DIR$/fase/static/djangodb_public_auth_group.csv" />
-    <entry file="file://C:/база данных/djangodb_public_auth_group.csv" />
-    <entry file="file://$USER_HOME$/Downloads/c15214_santexklin13_ru (1)">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="das://07339c1c-47c6-4331-8e94-98d816725539/database/djangodb/schema/public/table/djangodb_public_auth_group_1" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/CSV-Groovy.csv.groovy">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="das://07339c1c-47c6-4331-8e94-98d816725539/role/users">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://07339c1c-47c6-4331-8e94-98d816725539/database/djangodb/schema/public/table/djangodb_public_auth_group" />
-    <entry file="das://07339c1c-47c6-4331-8e94-98d816725539/database/djangodb/schema/public/table/auth_user_user_permissions">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state projectRestartId="57b290d5-c698-424a-bc6f-d2d259c4c11a">
-          <filtering>
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
-    <entry file="db://01064fc4-904d-405d-91b0-f546ae412691/objects/schemas/public/tables/auth_group_permissions">
-      <provider selected="true" editor-type-id="1.DATA">
-        <state row-count="0" readonly="false">
-          <columns>
-            <column name="id" position="0" visible="true" />
-            <column name="group_id" position="1" visible="true" />
-            <column name="permission_id" position="2" visible="true" />
-          </columns>
-          <sorting />
-          <content-types />
-        </state>
-      </provider>
-    </entry>
-    <entry file="db://01064fc4-904d-405d-91b0-f546ae412691/objects/schemas/public/tables/auth_permission">
-      <provider selected="true" editor-type-id="1.DATA">
-        <state row-count="1" readonly="false">
-          <columns>
-            <column name="id" position="0" visible="true" />
-            <column name="name" position="1" visible="true" />
-            <column name="content_type_id" position="2" visible="true" />
-            <column name="codename" position="3" visible="true" />
-          </columns>
-          <sorting />
-          <content-types />
-        </state>
-      </provider>
-    </entry>
-    <entry file="db://01064fc4-904d-405d-91b0-f546ae412691/consoles/Connection">
-      <provider selected="true" editor-type-id="0.CONSOLE">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="db://01064fc4-904d-405d-91b0-f546ae412691/session_browsers/Connection Sessions">
-      <provider selected="true" editor-type-id="0.SESSION_BROWSER">
-        <state>
-          <refresh-interval value="0" />
-          <sorting />
-          <filter>
-            <user value="" />
-            <host value="" />
-            <status value="" />
-          </filter>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fase/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/plumbing_installation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/mixer/shower.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="18" lean-forward="true" selection-start-line="25" selection-end-line="26" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/mixer/about_mixer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="48" lean-forward="true" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/navbar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fase/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/The_main_page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="43" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fase/static/media/static/style1.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fase/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1836">
-          <caret line="108" column="5" selection-start-line="108" selection-start-column="5" selection-end-line="108" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/santex/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-          <folding>
-            <element signature="e#630#662#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fase/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
-          <folding>
-            <element signature="e#1#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fase/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="58" selection-start-line="30" selection-start-column="58" selection-end-line="30" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Soft/Python/Lib/site-packages/django/db/models/deletion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/santex/wsgi.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/About_the_store.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fase/static/media/static/style1.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="11" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/santex/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="49" column="14" selection-start-line="34" selection-start-column="1" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>

@@ -2,6 +2,9 @@ from django.db import models
 
 
 # Create your models here.
+from django.urls import reverse
+
+
 class Brand(models.Model):
     name = models.CharField(max_length=50)
     slug = models.CharField(max_length=50)
@@ -38,6 +41,8 @@ class Mixer(models.Model):
         verbose_name_plural = 'Смесители'
         verbose_name = 'Смеситель'
 
+    def get_absolute_url(self):
+        return reverse('about_mixer', kwargs={'id':self.id})
     def __repr__(self):
         return self.name
 

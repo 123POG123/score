@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="h14.netangels.ru" id="75e4a8c2-1217-41a4-ada3-d16f3508b26a" port="22" customName="h14.netangels.ru" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="h14.netangels.ru" id="a795efac-700d-4e16-8b8f-a19b60cd0a0e" port="22" customName="h14.netangels.ru" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="h14.netangels.ru" id="492ccda5-089c-4d4b-ba19-5157e27cd3a2" port="22" customName="h14.netangels.ru" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="h14.netangels.ru" id="27e1418f-4710-4f01-9308-f834bec185cc" port="22" customName="h14.netangels.ru" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="h14.netangels.ru" id="75a05730-2111-45ac-b9d6-0039c2866c6b" port="22" customName="h14.netangels.ru" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="h14.netangels.ru" id="44e01d1a-39b2-4352-84f6-9ff0c338551c" port="22" customName="h14.netangels.ru" nameFormat="CUSTOM" />
+    </configs>
+  </component>
+</project>
